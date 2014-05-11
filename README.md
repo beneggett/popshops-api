@@ -6,7 +6,7 @@ A lightweight Ruby wrapper for communicating with the latest PopShops API (v3).
 
 Add this line to your application's Gemfile:
 
-    gem 'popshops'
+    gem 'popshops-api'
 
 And then execute:
 
@@ -14,11 +14,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install popshops
+    $ gem install popshops-api
 
 ## Usage
 
-`require 'popshops-api'` as needed
+`require 'popshops'` as needed
 
 Initialize the Popshops API
 
